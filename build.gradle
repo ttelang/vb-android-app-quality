@@ -35,6 +35,9 @@ buildscript {
 }
 
 allprojects {
+
+    // the top-level project and any subprojects all
+    // default to using the jcenter() repository to resolve any Java library dependencies.
     repositories {
         jcenter()
     }
