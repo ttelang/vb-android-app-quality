@@ -1,11 +1,9 @@
 vb-android-app-quality
 ======================
 
-Sample android project using Gradle, with basic quality tools set up. 
+Template Android Studio (version 2.2.x) project using Gradle build script. The project includes basic setup for static code analysis tools. The project is intended to  provide a clean base to any Gradle based Android Studio project.
 
-This project for provide a clean base to any Gradle Android project.
-
-This project also illustrate my articles about Gradle on my [website](http://vincentbrison.com).
+This project also illustrate examples from article about Gradle on [website](http://vincentbrison.com).
 
 Quality
 -------
